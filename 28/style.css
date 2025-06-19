@@ -1,0 +1,148 @@
+#myself-nav{
+    background-color: aliceblue;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+    top: 0%;
+}
+
+#myself-nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+#myself-nav a{
+    color: blueviolet;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#myself-nav a:hover{
+    background-color: aquamarine;
+}
+
+.home{
+    background-color: #f3ffc7;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.home img{
+    height: 60%;
+    width: 60%;
+}
+
+.hobby{
+    background-color: #bce9ff;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.hobby img{
+    height: 40%;
+    width: 40%;
+}
+
+.picture{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.picture img{
+    width: 40%;
+}
+
+.singer{
+    background-color: #b8c9ff;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.higedan{
+    display: flex;
+    justify-content: space-around;
+    margin: 15px;
+}
+
+.higedan img{
+    height: 35%;
+    width: 35%;
+    margin: 10px;
+}
+
+.movie{
+    background-color: aqua;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.konan{
+    display: flex;
+    justify-content: space-around;
+    margin: 15px;
+}
+
+.konan img{
+    height: 35%;
+    width: 35%;
+    margin: 10px;
+}
+
+.drama{
+    background-color: deeppink;
+    padding: 10px;
+    margin-top: 50px
+}
+
+.squid{
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+}
+
+.squid img{
+    height: 40%;
+    width: 40%;
+    margin: 15px;
+}
+
+.title{
+    background-color: lightyellow;
+    margin-top: 6%;
+}
+
+.music{
+    display: flex;
+    justify-content: space-around;
+    margin: 15px;
+}
+
+.sekaowa{
+    background-color: springgreen;
+    text-align: center;
+    width: 40%;
+    margin: 10px;
+}
+
+.music li{
+    list-style: none;
+}
+
+.sekaowa img{
+    margin: 10px;
+}
+
+.back{
+    text-align: center;
+    width: 40%;
+    background-color: cyan;
+    margin: 10px;
+}
+
+.back img{
+    width: 50%;
+    margin: 10px;
+}
